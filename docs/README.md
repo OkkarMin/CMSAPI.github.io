@@ -1,6 +1,6 @@
 # API Components created for StrawHat Crisis Management System
 
-> Last updated 4 Apr 2019
+> Last updated {docsify-updated}
 
 ## API Components
 
