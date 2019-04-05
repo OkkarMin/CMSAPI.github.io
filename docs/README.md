@@ -13,7 +13,7 @@ Components can be found in `/cms/baseapp/APIModules`
 3. [NotificationManager](NotificationManager.md)
 4. [PostalCodeAPIManager](PostalCodeAPIManager.md)
 5. [SMSAPIManager](SMSAPIManager.md)
-6. [StatusReportAPIManger](StatusReportAPIManger.md)
+6. [StatusReportAPIManger](StatusReportAPIManager.md)
 7. [TelegramAPIManager](TelegramAPIManager.md)
 8. [TwitterAPIManger](TwitterAPIManger.md)
 9. [WeatherAPIManager](WeatherAPIManager.md)
