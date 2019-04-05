@@ -6,8 +6,7 @@
 
 Components can be found in `/cms/baseapp/APIModules`
 
-!> All components are written in Python3.7
-!> All components act as a class
+!> All components are written in Python3.7 and act as a class
 
 1. [FacebookAPIManager](FacebookAPIManager.md)
 2. [FirebaseAPIManager](FirebaseAPIManager.md)
