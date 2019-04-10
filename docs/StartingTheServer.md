@@ -1,5 +1,7 @@
 # Starting The Server
 
+![Starting The Server Quick Run](https://raw.githubusercontent.com/OkkarMin/CMSAPI.github.io/master/docs/static/StartingTheServer.svg)
+
 Before starting the server there are two dependencies required
 1. [Python3.7.X](https://www.python.org/downloads/) 
 2. [Pipenv](https://pipenv.readthedocs.io/en/latest/#install-pipenv-today)
