@@ -11,7 +11,7 @@
 2. Choose Region
 3. Press Subscribe
 
-You should see
+and you should see
 
 ?> Successfully Subscribed!
 
