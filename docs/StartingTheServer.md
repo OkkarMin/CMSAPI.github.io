@@ -1,9 +1,8 @@
 # Starting The Server
 
-Before starting the server there are afew dependencies required
-- [Python3.7.X](https://www.python.org/downloads/) 
-- [Django 2.X](https://www.djangoproject.com/download/)
-- [Pipenv](https://pipenv.readthedocs.io/en/latest/#install-pipenv-today)
+Before starting the server there are two dependencies required
+1. [Python3.7.X](https://www.python.org/downloads/) 
+2. [Pipenv](https://pipenv.readthedocs.io/en/latest/#install-pipenv-today)
 
 ## Clone The Repository
 
