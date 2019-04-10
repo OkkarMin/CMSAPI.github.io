@@ -5,7 +5,8 @@
   - [Starting The Server](StartingTheServer.md)
 
 - User Guide
-  - [A Typical Scenerio](UserGuide.md)
+  - [Call Operator](CallOperatorGuide.md)
+  - [Public User](PublicGuide.md)
 
 - Admin Guide
   - [Creating Users](AdminGuide.md)
