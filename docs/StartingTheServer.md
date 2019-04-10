@@ -1,6 +1,8 @@
 # Starting The Server
 
-![Starting The Server Quick Run](https://raw.githubusercontent.com/OkkarMin/CMSAPI.github.io/master/docs/static/StartingTheServer.svg)
+<p align="center">
+  <img width="600" src="https://raw.githubusercontent.com/OkkarMin/CMSAPI.github.io/master/docs/static/StartingTheServer.svg?sanitize=true">
+</p>
 
 Before starting the server there are two dependencies required
 1. [Python3.7.X](https://www.python.org/downloads/) 
