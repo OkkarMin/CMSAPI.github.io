@@ -1,5 +1,6 @@
 - Introduction
   - [About Our Project](README.md)
+  - [Tasks Delegation](TasksDelegation.md)
 
 - Getting Started
   - [Starting The Server](StartingTheServer.md)
@@ -12,11 +13,8 @@
   - [Creating Users](AdminGuide.md)
 
 - Documentation For Developers
-  <!-- Insert Here Documentation -->
-  <!-- - [Context Diagram](ContextDiagram.md) -->
-  <!-- - [Sequence Diagrams](SequenceDiagrams.md) -->
-  - [Tasks Delegation](TasksDelegation.md)
-
+  - [Diagrams](Diagrams.md)
+  - [SRS Document](SRSDocument.md)
   - [Components](Components.md)
     - [FacebookAPIManager](FacebookAPIManager.md)
     - [FirebaseAPIManager](FirebaseAPIManager.md)
