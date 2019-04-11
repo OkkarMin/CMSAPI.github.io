@@ -3,7 +3,7 @@
 ## What is our project about?
 
 <p style='text-align: justify;'>
-We are building a Crisis Management System which aims to allow seamless collaboration between government agencies in times of emergency.In addition, the Prime Minister, cabinet ministers and government agency key decision makers shall monitor the crisis situation through the CMS. Our system can handle emergency situations like Fire, Terrorist, Gas Leak and Car Accident.
+We are building a Crisis Management System which aims to allow seamless collaboration between government agencies in times of emergency. In addition, the Prime Minister, cabinet ministers and government agency key decision makers shall monitor the crisis situation through the CMS. Our system can handle emergency situations like Fire, Terrorist, Gas Leak and Car Accident.
 </p>
 
 ## Main features of our project
