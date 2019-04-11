@@ -1,4 +1,4 @@
-# Tasks Delegations
+# Tasks Delegation
 
 - Each and every one of our team members contributed to the success of our Django webapplication
 - Table below shows the breakdown of work structure for each member
