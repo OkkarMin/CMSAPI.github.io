@@ -15,6 +15,7 @@
   <!-- Insert Here Documentation -->
   <!-- - [Context Diagram](ContextDiagram.md) -->
   <!-- - [Sequence Diagrams](SequenceDiagrams.md) -->
+  - [Tasks Delegation](TasksDelegation.md)
 
   - [Components](Components.md)
     - [FacebookAPIManager](FacebookAPIManager.md)

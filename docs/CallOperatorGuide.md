@@ -3,22 +3,22 @@
 
 ## To Login
 
+!> Please note that only the admin can create account and modify password
+
 1. Fill in your registered User name
 2. Fill in your registered Password
 
-!> Please note that only the admin can create account and modify password
-
 ## To view list of Incidents
 
-_**Note:** Incidents will be updated immediately without the need to refresh the page._
+!> New Incidents will be updated immediately on dashboard without the need to refresh the page.
 
 User will be brought to the dashboard with a list of incidents on logging in
 
 ## To view incident on the map
 
-> CAT1 consist of the following incidents: Terrorist,Fire, Gas Leak
+> `CAT1` consist of the following incidents: Terrorist,Fire, Gas Leak
 
-> CAT2 consist of the following incidents: Car Accidents and others
+> `CAT2` consist of the following incidents: Car Accidents and others
 
 1. Make a selection from the selctipn bar to customise the type of markers displayed on the map
 

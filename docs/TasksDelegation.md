@@ -1,0 +1,10 @@
+| Name             | Component                                                  | Web Page                  | Diagrams                       | Others                                                        |
+|------------------|------------------------------------------------------------|---------------------------|--------------------------------|---------------------------------------------------------------|
+| Jiawei           | PostalCodeAPIManager                                       | Details                   | System Architecture, <br> Use Case | -                                                        |
+| Okkar Min        | FirebaseAPIManager                                         | Dashboard                 | Data Flow Diagram              | ASYNC Firestore Dashboard, <br> Docsify                           |
+| Jason            | WeatherAPIManager                                          | Maps                      | Initial System Architecture    | Filtering On Map                                              |
+| Jiang Nan        |                                                            | Maps                      |                                | SRS Document, Use Case Descriptions, Incident Marker Creation |
+| Boya & Bingzi    | TwitterAPIManager, <br> FacebookAPIManager, <br> NotificationManager |                           | Entity Relation                | CRUDL                                                         |
+| QianYu & Yueying | StatusReportAPIManager                                     |                           | Context                        | Decision Table, <br> Status Report Creation and Sending, <br> Testcases |
+| Khang            | Django                                                     | Admin, <br> Details       |                                | User Account Authentication                                   |
+| Jiayin           | SMSAPIManager                                              | Subscribe, <br> Front End UI Decisons     | Dialog Map                     | Testcases                                                     |
