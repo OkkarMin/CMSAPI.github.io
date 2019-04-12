@@ -1,3 +1,9 @@
+# Black box testing
+
+```pdf
+
+```
+
 # White box testing
 
 ## Save Incident To Firebase
