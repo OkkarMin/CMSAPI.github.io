@@ -15,6 +15,7 @@
 - Documentation For Developers
   - [Diagrams](Diagrams.md)
   - [SRS Document](SRSDocument.md)
+  - [Tests](Tests.md)
   - [Components](Components.md)
     - [FacebookAPIManager](FacebookAPIManager.md)
     - [FirebaseAPIManager](FirebaseAPIManager.md)

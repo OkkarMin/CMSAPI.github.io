@@ -26,3 +26,9 @@ def sendEmailToPMO():
 Result:
 
 Crafted email is send to `cms3003report@gmail.com`
+
+### Example of Status Report
+
+```pdf
+https://github.com/OkkarMin/CMSAPI.github.io/raw/master/docs/static/StatusReportEg.pdf
+```
