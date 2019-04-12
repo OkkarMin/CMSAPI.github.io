@@ -26,3 +26,9 @@ def sendEmailToPMO():
 Result:
 
 Crafted email is send to `cms3003report@gmail.com`
+
+### Example of Status Report
+
+```pdf
+/static/StatusReportEg.pdf
+```
