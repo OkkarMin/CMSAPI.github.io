@@ -1,19 +1,19 @@
-# Black box testing
+## Black box testing
 
 !> [Click here to download](https://github.com/OkkarMin/CMSAPI.github.io/raw/master/docs/static/Test_Cases.pdf)
 ```pdf
 https://github.com/OkkarMin/CMSAPI.github.io/raw/master/docs/static/Test_Cases.pdf
 ```
 
-# White box testing
+## White box testing
 
-## Save Incident To Firebase
+### Save Incident To Firebase
 ![](static/saveIncidentToFirebase.png)
 
 
 ![](static/saveIncidentToFirebase2.png)
 
-## Update Map (Weather only)
+### Update Map (Weather only)
 
 
 ![](static/updateMap.png)
