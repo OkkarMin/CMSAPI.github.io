@@ -33,4 +33,4 @@ Click on `+ Add` under `Users`
 
 You should see the `success page` after creating an account successfully
 
-![AdminCreateuserSuccess](/static/AdminCreateuserSuccess.png)
+![AdminCreateuserSuccess](/static/AdminCreateUserSuccess.png)

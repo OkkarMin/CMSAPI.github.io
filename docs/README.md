@@ -1,5 +1,7 @@
 # Welcome to CMS's documentation
 
+> Last updated {docsify-updated}
+
 ## What is our project about?
 
 <p style='text-align: justify;'>

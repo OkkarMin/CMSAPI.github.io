@@ -10,7 +10,7 @@
 ![](/static/Diagrams/Context_Diagram_V4.png)
 
 
-## Data Forwarding Diagram
+## Data Flow Diagram
 
 ![](/static/Diagrams/DFDv2.png) 
 

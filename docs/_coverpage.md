@@ -2,7 +2,7 @@
 
 ![logo](static/StrawHat.png)
 
-# StrawHat CMS <small>1.4</small>
+# StrawHat CMS <small>1.3</small>
 
 > Documentation site for StrawHat CMS
 
