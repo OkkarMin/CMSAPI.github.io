@@ -1,7 +1,7 @@
 # Black box testing
 
 ```pdf
-
+https://github.com/OkkarMin/CMSAPI.github.io/raw/master/docs/static/Test_Cases.pdf
 ```
 
 # White box testing
