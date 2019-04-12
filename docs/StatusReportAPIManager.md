@@ -29,6 +29,8 @@ Crafted email is send to `cms3003report@gmail.com`
 
 ### Example of Status Report
 
+!> [Click here to download](https://github.com/OkkarMin/CMSAPI.github.io/raw/master/docs/static/StatusReportEg.pdf)
+
 ```pdf
 https://github.com/OkkarMin/CMSAPI.github.io/raw/master/docs/static/StatusReportEg.pdf
 ```
