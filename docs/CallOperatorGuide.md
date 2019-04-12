@@ -1,38 +1,75 @@
 
 # Call Operator
 
-## To Login
+## Login
 
-!> Please note that only the admin can create account and modify password
+!> Only the admin can create account and modify password
 
-1. Fill in your registered User name
-2. Fill in your registered Password
+Head over to [login page](http://localhost:8000/accounts/login)
 
-## To view list of Incidents
+- Fill in your registered `username`
+- Fill in your registered `password`
 
-!> New Incidents will be updated immediately on dashboard without the need to refresh the page.
+?> Demo account
+<br>
+`username` : C01
+<br>
+`password` : strawhat10
 
-User will be brought to the dashboard with a list of incidents on logging in
+![COLogin](/static/COLogin.png)
 
-## To view incident on the map
+!> If wrong details entered
+<br>
+<br>
+![COWrongPassword](/static/COWrongPassword.png)
 
-> `CAT1` consist of the following incidents: Terrorist,Fire, Gas Leak
+## View List of Incidents
 
-> `CAT2` consist of the following incidents: Car Accidents and others
+!> New Incidents will be updated immediately on dashboard without the need to refresh the page
 
-1. Make a selection from the selctipn bar to customise the type of markers displayed on the map
+User will be brought to the `dashboard` with a list of `incidents` after logging in
 
-## To add incident
+![COListOfIncidents](/static/COListOfIncidents.png)
+
+## View Incidents on Map
+
+?> `CAT1` consist of the following `incidents`: Terrorist,Fire, Gas Leak
+<br>
+`CAT2` consist of the following `incidents`: Car Accidents and others
+
+Make a selection from the selection bar to customise the type of markers displayed on the map
+
+![COViewMap](/static/COViewMap.png)
+
+## Create New Incident
 
 !> Please note that operators should not add a new incident if the same incident have been reported instead head over to [add report](#Add-report-in-incident-details)
 
-1. Click on the Add New Incident Button
-2. Fill in all required fields
-3. Click on send data
+- Click on the `Add New Incident` button
 
-## Add report in incident details
+![COAddNewIncident1](/static/COAddNewIncident1.png)
 
-1.All information about an incident reported by all reporters will be displayed on this page.
+- Fill in all required fields
+- Click on `Send data`
 
-2.You can add in new reports for the same incident by clicking on 'Add New Report' button
+![COAddNewIncident1](/static/COAddNewIncident2.png)
 
+## Add New Report
+
+!> MANY Reports are linked to ONE Incident
+<br>
+MANY Reports >> ONE Incident
+<br>
+
+- Go to `details page` of the Incident that the Report should be added to
+
+![COAddNewReport1](/static/COAddNewReport1.png)
+
+- Click on `Add New Report`
+
+![COAddNewReport2](/static/COAddNewReport2.png)
+
+- Fill in all required fields
+- Click on `Add`
+
+![COAddNewReport3](/static/COAddNewReport3.png)

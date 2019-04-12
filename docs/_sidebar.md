@@ -10,7 +10,7 @@
   - [Public User](PublicGuide.md)
 
 - Admin Guide
-  - [Creating Users](AdminGuide.md)
+  - [Creating Account](AdminGuide.md)
 
 - Documentation For Developers
   - [Diagrams](Diagrams.md)

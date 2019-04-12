@@ -1,8 +1,8 @@
 # Public User
 
-!> For now, public user could only access our Subscribe page
+!> Public user could only access our Subscribe page
 
-## To Subscribe
+## Subscribe
 
 ![SubscribePage](https://raw.githubusercontent.com/OkkarMin/CMSAPI.github.io/master/docs/static/PublicGuide.png)
 
