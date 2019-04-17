@@ -5,6 +5,11 @@
 ![](/static/Diagrams/SystemArchitectureLv1.png)
 ### Level 2
 ![](/static/Diagrams/SystemArchitectureLv2.png)
+
+## Use Case Diagram
+
+![](/static/Diagrams/UseCaseDiagram.png)
+
 ## Context Diagram
 
 ![](/static/Diagrams/Context_Diagram_V4.png)
