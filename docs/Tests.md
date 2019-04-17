@@ -4,6 +4,9 @@
 ```pdf
 https://github.com/OkkarMin/CMSAPI.github.io/raw/master/docs/static/Test_Cases.pdf
 ```
+### Boundary Value testing for discrete values
+
+![](static/Diagrams/BoundaryValueTesting.JPG)
 
 ## White box testing
 
