@@ -10,13 +10,16 @@ We are building a Crisis Management System which aims to allow seamless collabor
 
 ## Main features of our project
 
-### Async Incident Dashboard
+### Async Incident Dashboard / Map
 
 - Provide Users with a dashboard of all incidents reported updated at ***__real time without a need to refresh page__***
 
-### Map
-
 - Provide ***__real time without a need to refresh page__*** status updates of various incidents on a map of Singapore, ***__integrated with weather conditions,dengue hot spot haze information__***
+
+### Threading of Subprocesses
+
+- Subprocess are threaded to not block the main process. Resulting in ***__faster navigation back to dashboard__***
+
 
 ### Notifications/Alerts
 
