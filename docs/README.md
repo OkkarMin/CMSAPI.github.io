@@ -28,7 +28,7 @@ e relevant agencies: Emergency Ambulance – Singapore Civil Defence Force (SCDF
 , Fire-Fighting - SCDF, Gas Leak Control – Singapore Power
 
 - Incidents ***__update will be sent to the public__*** through 
-    - ![TelegramLogo](/static/telegram-logo.jpg)
+    - ![TelegramLogo](/static/telegram-logo.jpg ':size=20%') Telegram
     - ![FacebookLogo](https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png ':size=20%') Facebook
 <!-- ***__Telegram  and Facebook___***.  -->
 
