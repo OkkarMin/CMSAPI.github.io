@@ -31,7 +31,7 @@ def notify(incident):
         facebookShare(message, image)
         telegram_post(message, url)
     #For CAT2, update when >= 6 hours from last CAT2 post
-    elif incident_level = 'CAT2':
+    elif incident_level == 'CAT2':
         check_update(incident_id)
 ```
 
